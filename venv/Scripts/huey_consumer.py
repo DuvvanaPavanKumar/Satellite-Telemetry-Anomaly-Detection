@@ -1,4 +1,4 @@
-#!C:\Users\pavan\sat-telemetry-main\venv\Scripts\python.exe
+#!C:\Users\pavan\Satellite Telemetry Anomaly Detection\venv\Scripts\python.exe
 
 import logging
 import os
